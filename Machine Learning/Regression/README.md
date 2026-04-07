@@ -36,11 +36,24 @@ Dataset: Breast Carcinoma (MSK, NPJ Precis Oncol 2025) ([Breast Carcinoma] (http
 
 Genomic characterization of 527 tumor mutational burden-high breast carcinomas.
 
-| Database | Dataset  | Application |
-|----------|----------|-------------|
-| Row 1    | Data A   | Data B      |
-| Row 2    | Data C   | Data D      |
+# Dataset Details 📊
 
+Include key information about the dataset:
+
+Number of samples
+
+Number of features
+
+Target variable(s)
+
+Preprocessing steps (normalization, missing values handling, feature engineering)
+
+
+Dataset: Breast Carcinoma (MSK, NPJ Precis Oncol 2025)
+Samples: 527 patients
+Features: 13 (e.g., crime rate, average number of rooms, etc.)
+Target: Median value of owner-occupied homes
+Preprocessing: Standardization of features, removal of null values
 
 # Applications 🚀 
 
@@ -50,7 +63,3 @@ Genomic characterization of 527 tumor mutational burden-high breast carcinomas.
 Summarize the outcomes:
 
 Accuracy, RMSE, MAE, R² score, etc.
-
-Visualizations (plots, graphs)
-
-Insights gained
