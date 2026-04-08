@@ -15,9 +15,33 @@ The focus here is on building a strong foundation with Python data structures an
 ## ⚙️ Requirements <br>
 The code was written in Python language (v.4.5.1) using the Anaconda distribution (v.2.7 ; 12-2-2025) and Jupyter Notebook tool.
 
-# 🚀 Getting Started
+## Learning Path
+
+This notebook is the first step in the series:
+
+1. Basics → Python structures and ML workflow
+2. Libraries → NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch
+3. Regression → Linear and polynomial regression
+4. Classification → Logistic regression, decision trees, random forests, neural networks
+5. Deep Learning Basics → Neural network architectures and training
+
+## Audience
+* Beginners in Python, ML, and DL
+* Students seeking practical, hands-on experience
+* Developers transitioning into AI/ML fields
+
+## Notes
+* Each section includes explanations and code examples
+* Recommended to run in order for a smooth learning curve
+* Datasets used are either generated within the notebook or sourced from standard ML libraries
+
+## 🚀 Getting Started
 
 Launch Jupyter Notebook with Anaconda:
 
 ```bash
 jupyter notebook
+
+Open `Basics-Hands-On-Machine-Learning-and-Deep-Learning-with-Python-Libraries.ipynb`.
+
+Run cells sequentially to follow along with explanations and examples.
