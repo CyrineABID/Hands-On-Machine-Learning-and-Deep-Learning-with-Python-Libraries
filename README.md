@@ -16,13 +16,13 @@ This repository contains a series of Jupyter notebooks designed to introduce and
 * **Basics-Hands-On-Machine-Learning-and-Deep-Learning-with-Python-Libraries.ipynb** <br>
       Introduction to Python data structures (lists, dictionaries, tuples) and ML/DL workflow basics.
 * **Libraries-Hands-On-Machine-Learning-and-Deep-Learning-with-Python-Libraries.ipynb** <br>
-      Overview of essential Python libraries such as NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, and PyTorch.
+      Overview of essential Python libraries such as NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, etc.
 * **Regression-Hands-On-Machine-Learning-and-Deep-Learning-with-Python-Libraries.ipynb** <br>
       Covers regression techniques (linear regression, polynomial regression, evaluation metrics).
 * **Classification-Hands-On-Machine-Learning-and-Deep-Learning-with-Python-Libraries.ipynb** <br>
       Explains classification algorithms (logistic regression, decision trees, random forests, neural networks).
 * **DeepLearning-Basics-Hands-On-Machine-Learning-and-Deep-Learning-with-Python-Libraries.ipynb** <br>
-      Introduces deep learning concepts, neural network architectures, and training with TensorFlow/PyTorch.
+      Provides an introduction to deep learning fundamentals, including neural network basics, activation functions, forward and backward propagation, and simple model training examples using TensorFlow.
 
 # Learning Path
 
