@@ -20,9 +20,9 @@ The code was written in Python language (v.4.5.1) using the Anaconda distributio
 This notebook is the first step in the series:
 
 1. *Basics* → Python structures and ML workflow
-2. *Libraries* → NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch
+2. *Libraries* → NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, etc.
 3. *Regression* → Linear and polynomial regression
-4. *Classification* → Logistic regression, decision trees, random forests, neural networks
+4. *Classification* → Logistic regression, decision trees, SVM, XGboost.
 5. *Deep Learning Basics* → Neural network architectures and training
 
 ## Audience
