@@ -39,7 +39,7 @@ This notebook is the fourth step in the series:
 
 1. *Basics* → Python structures and ML workflow
 2. *Libraries* → NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, etc.
-3. *Regression* → Linear and polynomial regression
+3. *Regression* → KNN with a major emphasis on the philosophy of explanatory analysis and preprocessing.
 4. *Classification* → Logistic regression, decision trees, SVM, XGboost.
 5. *Deep Learning Basics* → Neural network architectures and training
 
