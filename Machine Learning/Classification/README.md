@@ -1,65 +1,29 @@
-# Overview 🔍
-Provide a short description of the project:
+# Machine Learning Basics with Python Libraries
 
-What problem is being solved?
+## 📌 Project Overview
+This project introduces the fundamentals of **machine learning** using Python libraries such as sckit-learn, seaborn, and Matplotlib.  
+The focus is on building, training, evaluating, and visualizing a machine learning models for **IRIS dataset**.
 
-Why is this application important?
+---
 
-What is the expected outcome?
+## ⚙️ Workflow
 
-# Methodology ⚙️
+1. **Data Preparation**
+   - Load and preprocess the IRIS dataset.
 
-Clearly state the method(s) used in the application:
+2. **Preprocessing**
+   - `StandardScaler` standardizes features by removing the mean and scaling to unit variance.
+   - `SelectKBest` is a method for feature selection: it picks the top $k$ features based on a scoring function.
 
-Regression (Linear, Polynomial, Logistic, etc.)
+3. **Models and Hyperparameters**
+   - Building a dictionary of machine learning models and their hyperparameter grids — it’s typically used for model comparison with techniques like `GridSearchCV` or other hyperparameter tuning
+   - Results and Metrics dictionaries
 
-Classification (Decision Trees, Random Forest, SVM, etc.)
+4. **Training models before and after tuning**
+   - Training models
+   - Fine Tuning
+   - Evaluation before and after
 
-Clustering (K-Means, Hierarchical, DBSCAN, etc.)
+5. **Visualization**
 
-Deep Learning (Neural Networks, CNNs, RNNs, etc.)
-
-Method: Linear Regression
-Goal: Predict housing prices based on features such as square footage, number of rooms, and location.
-
-# Database 🗄️
-
-Document the database or source of data:
-
-Public dataset ([cBioPortal](https://www.cbioportal.org/))
-
-Proprietary dataset (internal company data)
-
-Generated/simulated dataset
-
-Dataset: Breast Carcinoma (MSK, NPJ Precis Oncol 2025) ([Breast Carcinoma] (https://www.cbioportal.org/study/clinicalData?id=brca_msk_2025))
-
-Genomic characterization of 527 tumor mutational burden-high breast carcinomas.
-
-# Dataset Details 📊
-
-Include key information about the dataset:
-
-Number of samples
-
-Number of features
-
-Target variable(s)
-
-Preprocessing steps (normalization, missing values handling, feature engineering)
-
-
-Dataset: Breast Carcinoma (MSK, NPJ Precis Oncol 2025)
-Samples: 527 patients
-Features: 13 (e.g., crime rate, average number of rooms, etc.)
-Target: Median value of owner-occupied homes
-Preprocessing: Standardization of features, removal of null values
-
-# Applications 🚀 
-
-
-# Results 📈
-
-Summarize the outcomes:
-
-Accuracy, RMSE, MAE, R² score, etc.
+6. **Feature Importance of the best model**
