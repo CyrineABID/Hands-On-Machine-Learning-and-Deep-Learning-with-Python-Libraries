@@ -22,7 +22,7 @@ This repository contains a series of Jupyter notebooks designed to introduce and
 * **Classification-Hands-On-Machine-Learning-and-Deep-Learning-with-Python-Libraries.ipynb** <br>
       Explains classification algorithms (logistic regression, decision trees, random forests, neural networks).
 * **DeepLearning-Basics-Hands-On-Machine-Learning-and-Deep-Learning-with-Python-Libraries.ipynb** <br>
-      Provides an introduction to deep learning fundamentals, including neural network basics, activation functions, forward and backward propagation, and simple model training examples using TensorFlow.
+      Provides an introduction to deep learning fundamentals and simple model training examples using TensorFlow.
 
 # Learning Path
 
