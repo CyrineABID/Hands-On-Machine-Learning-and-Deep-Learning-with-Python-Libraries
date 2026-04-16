@@ -4,9 +4,9 @@ As part of the GTCA-BEST educational program, I had the pleasure of being invite
 Code execution was carried out in Python 3 using Jupyter Notebook, with dependencies managed via the Anaconda distribution [v.2.7 (12-2-2025)] on a local machine
 
 # License
-This project is licensed under the Apache-2.0 license — see the [License]([https://www.apache.org/licenses/LICENSE-2.0]) file for details.
+This project is licensed under the Apache-2.0 license — see the [License](https://www.apache.org/licenses/LICENSE-2.0) file for details.
 
-Author: [CyrineABID] ([https://github.com/CyrineABID])
+Author: [CyrineABID] (https://github.com/CyrineABID)
 
 ⭐ If this project helped you learn the first steps of Machine Learning and Deep Learning with Python, please give it a star!
 
