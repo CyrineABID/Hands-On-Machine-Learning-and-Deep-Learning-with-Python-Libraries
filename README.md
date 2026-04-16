@@ -3,6 +3,13 @@ As part of the GTCA-BEST educational program, I had the pleasure of being invite
 
 Code execution was carried out in Python 3 using Jupyter Notebook, with dependencies managed via the Anaconda distribution [v.2.7 (12-2-2025)] on a local machine
 
+# License
+This project is licensed under the Apache-2.0 license — see the [License]([https://www.apache.org/licenses/LICENSE-2.0]) file for details.
+
+Author: [CyrineABID] ([https://github.com/CyrineABID])
+
+⭐ If this project helped you learn the first steps of Machine Learning and Deep Learning with Python, please give it a star!
+
 # Installing Anaconda or Miniconda for Windows or Ubuntu Operating Systems
 [Anaconda](https://www.anaconda.com/) (Miniconda - Lightweight installer) is considered an essential tool in data science with Python because it simplifies package and environment management and integrates the most widely used libraries for machine learning, statistics, and visualization. It thus provides a complete solution for setting up and maintaining repeatable workflows.
 
