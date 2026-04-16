@@ -8,6 +8,8 @@ This project is licensed under the Apache-2.0 license — see the [License](http
 
 Author: [CyrineABID](https://github.com/CyrineABID)
 
+# Show Support
+
 ⭐ If this project helped you learn the first steps of Machine Learning and Deep Learning with Python, please give it a star!
 
 # Installing Anaconda or Miniconda for Windows or Ubuntu Operating Systems
